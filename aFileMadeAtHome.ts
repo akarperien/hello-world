@@ -1,2 +1,1 @@
-This file wss made at home. I am in newTestBranch.
-    conflict now!
+This file wss made at home. I am in newTestBranch. Now central repo. conflict now!
